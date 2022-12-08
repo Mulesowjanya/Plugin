@@ -2,7 +2,6 @@
 
 
 Contributors: sowjanya MULE
-Donate link: https://www.paypal.me/BnB90/50
 Tags: CopyText, wordpress Plugin, copytextplugin
 Requires at least: 4.6
 Tested up to: 6.0.3
